@@ -1,0 +1,1030 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab820e48-9e4b-41e1-9044-c5e09c65b7b5" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/config-server/.gradle/" />
+    <ignored path="$PROJECT_DIR$/config-server/build/" />
+    <ignored path="$PROJECT_DIR$/config-server/out/" />
+    <ignored path="$PROJECT_DIR$/rest-service/.gradle/" />
+    <ignored path="$PROJECT_DIR$/rest-service/build/" />
+    <ignored path="$PROJECT_DIR$/rest-service/out/" />
+    <ignored path="$PROJECT_DIR$/registry-server/.gradle/" />
+    <ignored path="$PROJECT_DIR$/registry-server/build/" />
+    <ignored path="$PROJECT_DIR$/registry-server/out/" />
+    <ignored path="$PROJECT_DIR$/gateway-server/.gradle/" />
+    <ignored path="$PROJECT_DIR$/gateway-server/build/" />
+    <ignored path="$PROJECT_DIR$/gateway-server/out/" />
+    <ignored path="$PROJECT_DIR$/discovery-client/.gradle/" />
+    <ignored path="$PROJECT_DIR$/discovery-client/build/" />
+    <ignored path="$PROJECT_DIR$/discovery-client/out/" />
+    <ignored path="$PROJECT_DIR$/app02/.gradle/" />
+    <ignored path="$PROJECT_DIR$/app02/build/" />
+    <ignored path="$PROJECT_DIR$/app02/out/" />
+    <ignored path="$PROJECT_DIR$/app01/.gradle/" />
+    <ignored path="$PROJECT_DIR$/app01/build/" />
+    <ignored path="$PROJECT_DIR$/app01/out/" />
+    <ignored path="$PROJECT_DIR$/web/.gradle/" />
+    <ignored path="$PROJECT_DIR$/web/build/" />
+    <ignored path="$PROJECT_DIR$/web/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@docker" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@docker" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@docker" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="distribuida: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@docker" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="distribuida: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@docker" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="distribuida: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@docker" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="distribuida: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@docker" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="distribuida: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="persona: table" type="69fad909:PgImplModel$LocalTable" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="postgres@docker" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="distribuida: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="tipo_direccion: table" type="69fad909:PgImplModel$LocalTable" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/app01">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/app02">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/config-server">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/discovery-client">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/gateway-server">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/registry-server">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/rest-service">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/web">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/app01">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app02">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/config-server">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/discovery-client">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/gateway-server">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/registry-server">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="app02" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="app02" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="app02" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app01/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app02/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="66" selection-start-line="3" selection-start-column="66" selection-end-line="3" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app01/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="38" column="50" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app02/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="83">
+              <caret line="33" column="69" selection-start-line="33" selection-start-column="69" selection-end-line="33" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app01/src/main/java/com/bxacosta/app01/App01Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app01/src/main/java/com/bxacosta/app01/service/TipoDireccionService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#706#721#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>/</find>
+      <find>error</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>\</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/rest-service/src/main/java/com/bxacosta/restservice/repository/PersonaRepository.java" />
+        <option value="$PROJECT_DIR$/rest-service/src/main/java/com/bxacosta/restservice/service/PersonaService.java" />
+        <option value="$PROJECT_DIR$/rest-service/src/main/java/com/bxacosta/restservice/controller/PersonaController.java" />
+        <option value="$PROJECT_DIR$/discovery-client/src/main/java/com/bxacosta/discoveryclient/DiscoveryClientApplication.java" />
+        <option value="$PROJECT_DIR$/discovery-client/src/main/java/com/bxacosta/discoveryclient/service/DiscoveryService.java" />
+        <option value="$PROJECT_DIR$/discovery-client/src/main/java/com/bxacosta/discoveryclient/controller/MainController.java" />
+        <option value="$PROJECT_DIR$/discovery-client/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/config-server/src/main/resources/config/service.properties" />
+        <option value="$PROJECT_DIR$/registry-server/src/main/java/com/bxacosta/registryserver/RegistryServerApplication.java" />
+        <option value="$PROJECT_DIR$/gateway-server/build.gradle" />
+        <option value="$PROJECT_DIR$/gateway-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/rest-service/src/main/java/com/bxacosta/restservice/model/TipoDireccion.java" />
+        <option value="$PROJECT_DIR$/rest-service/src/main/java/com/bxacosta/restservice/entity/Persona.java" />
+        <option value="$PROJECT_DIR$/rest-service/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/app01/settings.gradle" />
+        <option value="$PROJECT_DIR$/config-server/src/main/resources/config/app01.properties" />
+        <option value="$PROJECT_DIR$/config-server/src/main/resources/config/app02.properties" />
+        <option value="$PROJECT_DIR$/app02/src/main/java/com/bxacosta/app02/repository/PersonaRepository.java" />
+        <option value="$PROJECT_DIR$/app02/src/main/java/com/bxacosta/app02/entity/TipoDireccion.java" />
+        <option value="$PROJECT_DIR$/app02/src/main/java/com/bxacosta/app02/config/DataServiceConfig.java" />
+        <option value="$PROJECT_DIR$/app02/src/main/java/com/bxacosta/app02/dto/TipoDireccion.java" />
+        <option value="$PROJECT_DIR$/app02/src/main/java/com/bxacosta/app02/mapper/TipoDireccionMapper.java" />
+        <option value="$PROJECT_DIR$/app02/src/main/java/com/bxacosta/app02/service/TipoDireccionService.java" />
+        <option value="$PROJECT_DIR$/app02/src/main/java/com/bxacosta/app02/controller/TipoDireccionController.java" />
+        <option value="$PROJECT_DIR$/app01/src/main/java/com/bxacosta/app01/controller/TipoDireccionController.java" />
+        <option value="$PROJECT_DIR$/app01/src/main/java/com/bxacosta/app01/model/TipoDireccion.java" />
+        <option value="$PROJECT_DIR$/config-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/app01/src/main/java/com/bxacosta/app01/mapper/TipoDireccionMapper.java" />
+        <option value="$PROJECT_DIR$/app01/src/main/java/com/bxacosta/app01/service/PersonaService.java" />
+        <option value="$PROJECT_DIR$/app01/src/main/java/com/bxacosta/app01/dto/Persona.java" />
+        <option value="$PROJECT_DIR$/web/build.gradle" />
+        <option value="$PROJECT_DIR$/script.bat" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/bxacosta/web/dto/Persona.java" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/bxacosta/web/model/Persona.java" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/templates/inicio.jsp" />
+        <option value="$PROJECT_DIR$/app01/src/main/java/com/bxacosta/app01/mapper/PersonaMapper.java" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/bxacosta/web/model/TipoDireccion.java" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/web/src/main/resources/templates/index.html" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/bxacosta/web/WebApplication.java" />
+        <option value="$PROJECT_DIR$/gateway-server/src/main/java/com/bxacosta/gatewayserver/GatewayServerApplication.java" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/bxacosta/web/service/TipoDireccionService.java" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/bxacosta/web/service/PersonaService.java" />
+        <option value="$PROJECT_DIR$/web/src/main/java/com/bxacosta/web/controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/app01/build.gradle" />
+        <option value="$PROJECT_DIR$/app02/build.gradle" />
+        <option value="$PROJECT_DIR$/app02/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/app01/src/main/java/com/bxacosta/app01/App01Application.java" />
+        <option value="$PROJECT_DIR$/app01/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/app01/src/main/java/com/bxacosta/app01/service/TipoDireccionService.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1366" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="config-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app01" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="config-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app01" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="config-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app01" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="config-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app01" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="config-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app01" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="app01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="config-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app01" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="app01" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="config-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app01" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="config-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app02" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="config-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app02" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="config-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app02" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="config-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app02" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="config-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="registry-server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.46781608" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bxacosta.web.model" />
+      <recent name="com.bxacosta.web.dto" />
+      <recent name="com.bxacosta.app01.mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app02/src/main/java/com/bxacosta/app02" />
+      <recent name="$PROJECT_DIR$/config-server/src/main/resources/config" />
+      <recent name="$PROJECT_DIR$/config-server/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.26780185" />
+  </component>
+  <component name="RunManager" selected="Gradle.app02 [bootJar]">
+    <configuration name="app02 [bootJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/app02" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="config-server [bootJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/config-server" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="discovery-client [bootJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/discovery-client" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="gateway-server [bootJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/gateway-server" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="registry-server [bootJar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/registry-server" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootJar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="App01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="app01.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bxacosta.app01.App01Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App02Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="app02.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bxacosta.app02.App02Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegistryServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="registry-server.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bxacosta.registryserver.RegistryServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.app02 [bootJar]" />
+      <item itemvalue="Gradle.config-server [bootJar]" />
+      <item itemvalue="Gradle.discovery-client [bootJar]" />
+      <item itemvalue="Gradle.gateway-server [bootJar]" />
+      <item itemvalue="Gradle.registry-server [bootJar]" />
+      <item itemvalue="Spring Boot.App01Application" />
+      <item itemvalue="Spring Boot.App02Application" />
+      <item itemvalue="Spring Boot.RegistryServerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.registry-server [bootJar]" />
+        <item itemvalue="Gradle.gateway-server [bootJar]" />
+        <item itemvalue="Gradle.discovery-client [bootJar]" />
+        <item itemvalue="Gradle.config-server [bootJar]" />
+        <item itemvalue="Gradle.app02 [bootJar]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab820e48-9e4b-41e1-9044-c5e09c65b7b5" name="Default Changelist" comment="" />
+      <created>1564591614444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564591614444</updated>
+      <workItem from="1564591615841" duration="13562000" />
+      <workItem from="1564608426028" duration="8360000" />
+      <workItem from="1564674331875" duration="15929000" />
+      <workItem from="1564697971012" duration="1274000" />
+      <workItem from="1564748545098" duration="89000" />
+      <workItem from="1564748880551" duration="251000" />
+      <workItem from="1564749226030" duration="2069000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="41534000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1366" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.498708" visible="true" weight="0.23385939" />
+      <window_info id="Structure" order="1" sideWeight="0.501292" side_tool="true" weight="0.20978121" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32945737" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4003268" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4993565" weight="0.32945737" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.35658914" />
+      <window_info anchor="bottom" id="Spring" order="8" sideWeight="0.4993565" weight="0.32945737" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32816538" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5006435" side_tool="true" weight="0.32945737" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.3255814" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.40686274" />
+      <window_info anchor="bottom" id="Database Console" order="16" weight="0.25968993" />
+      <window_info active="true" anchor="bottom" x="23" y="213" width="1320" height="316" id="Run Dashboard" order="17" visible="true" weight="0.5503876" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32998565" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Mongo Explorer" order="6" weight="0.32998565" />
+      <window_info anchor="right" id="Database" order="7" weight="0.21750322" />
+      <window_info anchor="right" id="Gradle" order="8" weight="0.5387375" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Bean Validation" order="11" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>responseTipo.getBody()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>responsePersona.getBody()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>response.getBody()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>GATEWAY + &quot;/persona&quot;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/discovery-client/src/main/java/com/bxacosta/discoveryclient/service/DiscoveryService.java" />
+    <entry file="file://$PROJECT_DIR$/discovery-client/src/main/java/com/bxacosta/discoveryclient/controller/MainController.java" />
+    <entry file="file://$PROJECT_DIR$/registry-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/discovery-client/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/registry-server/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway-server/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/rest-service/src/main/java/com/bxacosta/restservice/model/TipoDireccion.java" />
+    <entry file="file://$PROJECT_DIR$/app01/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/config/app01.properties" />
+    <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/config/app02.properties" />
+    <entry file="file://$PROJECT_DIR$/app02/src/main/java/com/bxacosta/app02/service/PersonaService.java" />
+    <entry file="file://$PROJECT_DIR$/app02/src/main/java/com/bxacosta/app02/java/com/bxacosta/app02/App02Application.java" />
+    <entry file="file://$PROJECT_DIR$/app02/src/main/java/com/bxacosta/app02/repository/PersonaRepository.java" />
+    <entry file="file://$PROJECT_DIR$/app02/src/main/java/com/bxacosta/app02/dto/Persona.java" />
+    <entry file="file://$PROJECT_DIR$/app02/src/main/java/com/bxacosta/app02/config/DataServiceConfig.java" />
+    <entry file="file://$PROJECT_DIR$/app02/src/main/java/com/bxacosta/app02/mapper/TipoDireccionMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app02/src/main/java/com/bxacosta/app02/service/TipoDireccionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app02/src/main/java/com/bxacosta/app02/controller/TipoDireccionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#537#538#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app01/src/main/java/com/bxacosta/app01/repository/PersonaRepository.java" />
+    <entry file="file://$PROJECT_DIR$/app02/src/main/java/com/bxacosta/app02/dto/TipoDireccion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app01/src/main/java/com/bxacosta/app01/model/TipoDireccion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/tipo_direccion_schema.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app01/src/main/java/com/bxacosta/app01/dto/Persona.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/script.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/bxacosta/web/model/Persona.java" />
+    <entry file="file://$PROJECT_DIR$/app01/src/main/java/com/bxacosta/app01/service/PersonaService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="18" selection-start-line="18" selection-end-line="46" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registry-server/src/main/java/com/bxacosta/registryserver/RegistryServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://d642934d-7296-4827-bb90-8275ded72aa7/database/distribuida/schema/public/table/persona">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app01/src/main/java/com/bxacosta/app01/mapper/PersonaMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/bxacosta/web/model/TipoDireccion.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.1.8.RELEASE/c69e51041b6606d93b8a452714b184a8c8f5f9a6/spring-core-5.1.8.RELEASE-sources.jar!/org/springframework/util/StringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="92" column="26" selection-start-line="92" selection-start-column="26" selection-end-line="92" selection-end-column="26" />
+          <folding>
+            <element signature="e#3355#3356#0" expanded="true" />
+            <element signature="e#3400#3401#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/inicio.jsp" />
+    <entry file="das://d642934d-7296-4827-bb90-8275ded72aa7/database/distribuida/schema/public/table/tipo_direccion" />
+    <entry file="file://$PROJECT_DIR$/gateway-server/src/main/java/com/bxacosta/gatewayserver/GatewayServerApplication.java" />
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/bxacosta/web/WebApplication.java" />
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/bxacosta/web/service/TipoDireccionService.java" />
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/bxacosta/web/service/PersonaService.java" />
+    <entry file="file://$PROJECT_DIR$/web/src/main/java/com/bxacosta/web/controller/IndexController.java" />
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/templates/index.html" />
+    <entry file="file://$PROJECT_DIR$/app01/src/main/java/com/bxacosta/app01/controller/PersonaController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app01/src/main/java/com/bxacosta/app01/controller/TipoDireccionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gateway-server/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/web/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/app01/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="38" column="50" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app02/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="33" column="69" selection-start-line="33" selection-start-column="69" selection-end-line="33" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app02/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="66" selection-start-line="3" selection-start-column="66" selection-end-line="3" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app01/src/main/java/com/bxacosta/app01/App01Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app01/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app01/src/main/java/com/bxacosta/app01/service/TipoDireccionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#706#721#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.46781608" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.46781608" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.46781608" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.46781608" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>registry-server</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.46781608" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

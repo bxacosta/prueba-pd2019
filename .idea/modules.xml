@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app01.iml" filepath="$PROJECT_DIR$/.idea/modules/app01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app01.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app01.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app01.test.iml" filepath="$PROJECT_DIR$/.idea/modules/app01.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app02/app02.iml" filepath="$PROJECT_DIR$/app02/app02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app02.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app02.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app02.test.iml" filepath="$PROJECT_DIR$/.idea/modules/app02.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/registry-server/registry-server.iml" filepath="$PROJECT_DIR$/registry-server/registry-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/registry-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/registry-server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/registry-server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/registry-server.test.iml" />
+    </modules>
+  </component>
+</project>
